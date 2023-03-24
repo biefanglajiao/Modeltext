@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed3218aa-f08e-4d8f-bb16-6df51ea247a3" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验一一/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验一一/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验一一/Cpu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验一一/MacCpu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验一一/MacFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验一一/MacRam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验一一/PcCpu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验一一/PcFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验一一/PcRam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验一一/Ram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验一一/XmlUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验一一/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验一三/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验一三/Multiton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验一二/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验一二/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验一二/ComputerAssembleDirector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验一二/ComputerBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验一二/Desktop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验一二/Notebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验一二/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验一二/XmlUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验一二/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验二一/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验二一/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验二一/CatAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验二一/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验二一/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验二一/DogAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验二三/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验二三/Cpu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验二三/HardDisk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验二三/Mainframe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验二三/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验二三/Os.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验二二/AbstractFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验二二/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验二二/Folder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验二二/ImageFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验二二/TextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验二二/VideoFile.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NIjMUJWykiw0mffNbpcO1UhuFX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/大学/大三下/设计模式/实验/Modeltext/src/main/java/实验一二&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\大学\大三下\设计模式\实验\Modeltext\src\main\java\实验一二" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="实验一二" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="实验一一.Client" />
+      <module name="Modeltext" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="实验一一.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="实验一二.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="实验一二.Client" />
+      <module name="Modeltext" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="实验一二.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="实验二三.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="实验二三.Client" />
+      <module name="Modeltext" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="实验二三.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="实验二二.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="实验二二.Client" />
+      <module name="Modeltext" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="实验二二.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="实验二一.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="实验二一.Client" />
+      <module name="Modeltext" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="实验二一.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="实验一三.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="实验一三.Client" />
+      <module name="Modeltext" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="实验一三.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="实验二一.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="实验二一.Client" />
+      <module name="Modeltext" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="实验二一.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.实验一二.Client" />
+        <item itemvalue="应用程序.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="ed3218aa-f08e-4d8f-bb16-6df51ea247a3" name="变更" comment="" />
+      <created>1679358442782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679358442782</updated>
+      <workItem from="1679358443830" duration="5054000" />
+      <workItem from="1679364131243" duration="585000" />
+      <workItem from="1679444254139" duration="12000" />
+      <workItem from="1679445560105" duration="4572000" />
+      <workItem from="1679553921748" duration="3449000" />
+      <workItem from="1679616828497" duration="1579000" />
+      <workItem from="1679618423994" duration="1388000" />
+      <workItem from="1679620486779" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/实验一一/XmlUtil.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/实验一一/XmlUtil.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/实验一一/XmlUtil.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
