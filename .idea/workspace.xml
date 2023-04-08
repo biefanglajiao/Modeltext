@@ -4,20 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed3218aa-f08e-4d8f-bb16-6df51ea247a3" name="变更" comment="太原理工2023设计模式实验">
-      <change afterPath="$PROJECT_DIR$/src/main/java/实验三一/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/实验三一/SKYworthTV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/实验三一/TCLTv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/实验三一/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/实验三一/TVIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/实验三一/Xmlutil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/实验三一/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/实验三二/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/实验三二/ConcreteInverstor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/实验三二/Inverstor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/实验三二/Stock.java" afterDir="false" />
+    <list default="true" id="ed3218aa-f08e-4d8f-bb16-6df51ea247a3" name="变更" comment="实验一二三">
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验四一/Api/MediaPlayerAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验四一/Api/RealPlayerAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验四一/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验四一/Factory/MediaPlayerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验四一/Factory/PlayerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验四一/Factory/RealPlayerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验四一/List/MediaPlayerList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验四一/List/PlayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验四一/List/RealPlayerList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验四一/Window/Mainwindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验四一/Window/MediaPlayerWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验四一/Window/RealPlayerWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验四一/Xmlutil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/实验四一/config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +59,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/大学/大三下/设计模式/实验/Modeltext/src/main/java/实验三一",
+    "last_opened_file_path": "D:/大学/大三下/设计模式/实验/Modeltext/src/main/java/实验四一",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,28 +70,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\大学\大三下\设计模式\实验\Modeltext\src\main\java\实验四一" />
+      <recent name="D:\大学\大三下\设计模式\实验\Modeltext\src\main\java\实验三三" />
       <recent name="D:\大学\大三下\设计模式\实验\Modeltext\src\main\java\实验三一" />
       <recent name="D:\大学\大三下\设计模式\实验\Modeltext\src\main\java\实验一二" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="实验四一" />
       <recent name="实验三一" />
       <recent name="实验一二" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.实验三三.Client">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="实验一一.Client" />
-      <module name="Modeltext" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="实验一一.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.实验四一.Client">
     <configuration name="实验一二.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="实验一二.Client" />
       <module name="Modeltext" />
@@ -135,6 +127,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="实验三三.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="实验四一.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="实验四一.Client" />
+      <module name="Modeltext" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="实验四一.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.实验四一.Client" />
         <item itemvalue="应用程序.实验三三.Client" />
         <item itemvalue="应用程序.实验三二.Client" />
         <item itemvalue="应用程序.实验三一.Client" />
         <item itemvalue="应用程序.实验一二.Client" />
-        <item itemvalue="应用程序.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +242,7 @@
       <workItem from="1679822762649" duration="451000" />
       <workItem from="1679961677523" duration="15000" />
       <workItem from="1680836098702" duration="1205000" />
-      <workItem from="1680918856241" duration="2744000" />
+      <workItem from="1680918856241" duration="9211000" />
     </task>
     <task id="LOCAL-00001" summary="太原理工2023设计模式实验">
       <created>1679621857374</created>
@@ -253,7 +258,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679621998678</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="实验一二三">
+      <created>1680921797451</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680921797451</updated>
+    </task>
+    <task id="LOCAL-00004" summary="实验一二三">
+      <created>1680921808672</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680921808672</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,7 +291,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="太原理工2023设计模式实验" />
-    <option name="LAST_COMMIT_MESSAGE" value="太原理工2023设计模式实验" />
+    <MESSAGE value="实验一二三" />
+    <option name="LAST_COMMIT_MESSAGE" value="实验一二三" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
