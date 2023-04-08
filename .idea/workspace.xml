@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed3218aa-f08e-4d8f-bb16-6df51ea247a3" name="变更" comment="实验四一">
-      <change afterPath="$PROJECT_DIR$/src/main/java/实验四二/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/实验四二/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/实验四二/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/实验四二/MeetingList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/实验四二/MySubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/实验四二/User.java" afterDir="false" />
+    <list default="true" id="ed3218aa-f08e-4d8f-bb16-6df51ea247a3" name="变更" comment="实验四二">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/实验四一/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/实验四一/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,7 +239,7 @@
       <workItem from="1679961677523" duration="15000" />
       <workItem from="1680836098702" duration="1205000" />
       <workItem from="1680918856241" duration="9774000" />
-      <workItem from="1680962536489" duration="2703000" />
+      <workItem from="1680962536489" duration="3084000" />
     </task>
     <task id="LOCAL-00001" summary="太原理工2023设计模式实验">
       <created>1679621857374</created>
@@ -283,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680928947608</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="实验四二">
+      <created>1680965530890</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680965530890</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,7 +304,8 @@
     <MESSAGE value="太原理工2023设计模式实验" />
     <MESSAGE value="实验一二三" />
     <MESSAGE value="实验四一" />
-    <option name="LAST_COMMIT_MESSAGE" value="实验四一" />
+    <MESSAGE value="实验四二" />
+    <option name="LAST_COMMIT_MESSAGE" value="实验四二" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
