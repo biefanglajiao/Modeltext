@@ -13,6 +13,6 @@ public class TextFile extends AbstractFile{
 
     @Override
     public void display() {
-        System.out.println("TextFile  display!!");
+        System.out.println("2028班 TextFile  display!!");
     }
 }

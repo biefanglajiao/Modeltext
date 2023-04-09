@@ -7,8 +7,6 @@ package 实验四一.Window;
  **/
 public class Mainwindow {
     public void PlayerWindow() {
-
-
     }
 
 }

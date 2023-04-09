@@ -5,8 +5,7 @@ package 实验三一;
  * @Description:
  * @DateTime: 2023/4/8 9:59
  **/
-public class SKYworthTV
-implements TV{
+public class SKYworthTV implements TV{
     private Object[] obj={"CCTV_1","CCTV_2","CCTV_3","CCTV_4","CCTV_5","CCTV_6","CCTV_7","CCTV_8","CCTV_9","CCTV_10","CCTV_11"};
     @Override
     public TVIterator tvIterator() {

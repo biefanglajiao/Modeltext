@@ -13,6 +13,6 @@ public class ImageFile extends AbstractFile{
 
     @Override
     public void display() {
-        System.out.println("ImageFile display！！");
+        System.out.println("常兆海ImageFile display！！");
     }
 }

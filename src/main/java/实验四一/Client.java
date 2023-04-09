@@ -18,7 +18,7 @@ public class Client {
 
         PlayerFactory playerFactory = (PlayerFactory) Xmlutil.getbBean();
 
-
+        System.out.println("常兆海 软件2028班 2020007657 的播放器");
         Mainwindow window;
         PlayList list;
         window = playerFactory.creatMainwindow();

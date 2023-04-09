@@ -12,16 +12,10 @@ public class MeetingList extends MySubject {
     public void meeting() {
 
         for (Object o : observes
-        ) { System.out.println("会议1安排");
+        ) { System.out.println("软件2028班  常兆海202007657 的会议1安排");
             ((User) o).action();
         }
     }
-    public void meeting2() {
 
-        for (Object o : observes
-        ) { System.out.println("会议2安排");
-            ((User) o).action();
-        }
-    }
 }
 

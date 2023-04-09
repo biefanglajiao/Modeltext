@@ -39,6 +39,5 @@ public class Client {
 
         meetingList.meeting();//通过观察者模式实现：如果员工或者部门希望能够收到会议通知，必须先注册到一个会议列表（MeetingList）中， 在发送通知时，系统将遍历会议列表，逐个将会议通知发送给注册用户（User）
 
-
     }
 }

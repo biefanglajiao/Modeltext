@@ -17,6 +17,7 @@ public class Client
 {
     public static void main(String[] args) {
         Mainframe   mainframe=new Mainframe();
+        System.out.println("软件2028 常兆海 2020007657");
         mainframe.run();
     }
 }

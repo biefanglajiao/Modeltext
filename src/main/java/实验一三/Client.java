@@ -16,6 +16,7 @@ public class Client {
         Multiton multiton1 = Multiton.getInstance( Multiton.random());
         Multiton multiton2 = Multiton.getInstance( Multiton.random());
         Multiton multiton3 = Multiton.getInstance(  Multiton.random());
+        System.out.println("软件2028 常兆海 2020007657");
         System.out.println(multiton1==multiton2);
         System.out.println(multiton1==multiton3);
         System.out.println(multiton2==multiton3);

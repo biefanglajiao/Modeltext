@@ -11,7 +11,7 @@ public class Client {
         TVIterator tvIterator;
         tv = (TV) Xmlutil.getbBean();
         tvIterator = tv.tvIterator();
-        System.out.println("电视机频道：");
+        System.out.println("常兆海 软件2028 班  2020007657 的电视机频道：");
         while (!tvIterator.isLast()) {
             System.out.println(tvIterator.currentChannel().toString());
             tvIterator.next();

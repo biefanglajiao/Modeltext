@@ -9,7 +9,7 @@ package 实验三三;
 public class BicycleStrategy implements TravelStrategy{
     @Override
     public void travel() {
-        System.out.println("骑自行车");
+        System.out.println("常兆海 软件2028 班  2020007657选择  骑自行车");
     }
 
 }

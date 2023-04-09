@@ -31,7 +31,5 @@ ComputerAssembleDirector director=new ComputerAssembleDirector(builder);
         System.out.println(computer.getHost());
         System.out.println(computer.getDisplay()
         );
-
-
     }
 }

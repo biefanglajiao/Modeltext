@@ -10,7 +10,7 @@ public class Client {
         Stock stock = new Stock();
         Inverstor inverstor = new ConcreteInverstor();
         stock.attach(inverstor);
-        stock.setStockName("中国石油");
+        stock.setStockName("股票：常兆海2020007657");
         stock.getStockName();
         stock.setPrice(100);
         stock.setPrice(50);

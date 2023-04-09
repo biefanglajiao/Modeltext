@@ -9,10 +9,8 @@ import 实验四一.Api.RealPlayerAPI;
  **/
 public class RealPlayerList extends PlayList {
     private RealPlayerAPI realPlayerAPI;
-
     public void PlayerList() {
         System.out.println("RealPlayerList");
         realPlayerAPI.list();
     }
-
 }

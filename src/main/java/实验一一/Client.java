@@ -15,6 +15,7 @@ package 实验一一;
  */
 public class Client {
     public static void main(String[] args) {
+
         AbstractFactory factory;
         Cpu cpu;
         Ram ram;

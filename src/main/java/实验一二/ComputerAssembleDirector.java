@@ -17,6 +17,7 @@ public class ComputerAssembleDirector {
         computerBuilder.buildHardDisk();
         computerBuilder.buildHost();
         computerBuilder.builddisplay();
+        System.out.println("软件2028 常兆海 2020007657");
         return computerBuilder.getComputer();
     }
 }
